@@ -1,0 +1,7 @@
+# SpectrumWaterfall
+SpectrumWaterfall
+
+频谱瀑布图的数据集包含了FM调频广播、WIFI网络共用频段、312MHz-512MHz超短波频段、蓝牙信号、2.4G无绳电话、微波炉、
+Xbox360跳频信号以及Jammer信号等部分典型频谱数据，共制作好了大约3500张左右瀑布图切片，数据集共包含10000张图片。
+
+数据集下载完成后，需要将JPEGImages1和JPEGImage2两个文件夹合并为JPEGImages，然后就可以使用了。
